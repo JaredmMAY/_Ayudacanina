@@ -1,0 +1,25 @@
+*{
+	margin: 0;
+	border: 0;
+}
+body{
+	background: #e6e6e6e6;
+}
+.main{
+	
+	width: 69%;
+	max-width: 1000px;
+	margin: 20px auto;
+}
+.main .articles article{
+	padding: 20px;
+	background: #ba9565;
+	margin-bottom:20px;
+
+}
+
+.main .articles{
+	width:100%;
+	
+}
+
